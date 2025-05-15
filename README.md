@@ -21,14 +21,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Aviral0&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral0&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 🐍 Contribution Snake Animation
 
