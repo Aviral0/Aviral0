@@ -12,8 +12,8 @@ I build features for [paperpal.com](https://paperpal.com/homev3), all the featur
 
 ## 🧑‍💻 Areas of Interest
 
-- Backend engineering and distributed systems
-- Web development using modern frameworks
+- Build clean, scalable, efficient APIs
+- 
 - System design and architecture
 - Cloud-native technologies and DevOps best practices
 
@@ -48,17 +48,11 @@ I build features for [paperpal.com](https://paperpal.com/homev3), all the featur
 
 ---
 
-## 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=aviraljain7&show_icons=true&theme=default" alt="Aviral Jain's GitHub Stats" />
-</p>
-
----
 
 ## 📬 Get in Touch
 
 Feel free to reach out for collaboration, technical discussion, or just to connect professionally.
 
-- 📧 Email: [your-email@example.com]
+- 📧 Email: jainaviral25@gmail.com
+- 📍 Location: Noida, Delhi NCR, India    
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aviral-jain-6190b9133/)
