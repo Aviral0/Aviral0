@@ -6,16 +6,15 @@ I have been working for ~3 years in [cactus communications](https://cactusglobal
 I build features for [paperpal.com](https://paperpal.com/homev3), all the features you see on RHS panel are genai features build by yours truly
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aviral%20Jain-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aviral-jain-6190b9133/)
-
 ---
 
 ## 🧑‍💻 Areas of Interest
 
 - Build clean, scalable, efficient APIs
-- 
+- build LLM based features
+- optimising APIs
 - System design and architecture
-- Cloud-native technologies and DevOps best practices
+- Cloud technologies
 
 ---
 
