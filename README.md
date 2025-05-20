@@ -10,11 +10,13 @@ I build features for [paperpal.com](https://paperpal.com/homev3), all the featur
 
 ## 🧑‍💻 Areas of Interest
 
-- Build clean, scalable, efficient APIs
-- build LLM based features
+- Build clean, scalable, efficient APIs 
+- code reviewsand sprint planning (priortise what creates the most impact, sometimes of all things, it is refactoring the codebase)
+- keeping test cases upto date (how else will you know, you are good to go for prod?)
+- build LLM based features (I build a wrapper for cactus which is used to call LLMs, nobodu can just use the API key and start calling LLMs, you call us, I know a guy who knows a guy kind of deal)
 - optimising APIs
-- System design and architecture
-- Cloud technologies
+- System design and architecture (design diagrams give the most clarity, don't lie !)
+- Cloud technologies 
 
 ---
 
