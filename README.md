@@ -1,7 +1,9 @@
 # Hi, I'm Aviral Jain 👋
 
 I'm a backend python developer focused on building reliable, scalable, and efficient systems. I enjoy solving real-world problems through clean, maintainable code and thoughtful design.
-I have been working for ~3 years in [cactus communications](https://cactusglobal.com) as a Senior Software Engineer. I build features for [paperpal.com](https://paperpal.com/homev3), all the features you see on RHS panel are genai features build by yours truly
+
+I have been working for ~3 years in [cactus communications](https://cactusglobal.com) as a Senior Software Engineer. 
+I build features for [paperpal.com](https://paperpal.com/homev3), all the features you see on RHS panel are genai features build by yours truly
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aviral%20Jain-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aviral-jain-6190b9133/)
