@@ -1,9 +1,24 @@
-# Hi, I'm Aviral Jain 👋
+# Thanks for stopping by, I'm Aviral Jain 👋
 
 I'm a backend python developer focused on building reliable, scalable, and efficient systems. I enjoy solving real-world problems through clean, maintainable code and thoughtful design.
 
 I have been working for ~3 years in [cactus communications](https://cactusglobal.com) as a Senior Software Engineer. 
 I build features for [paperpal.com](https://paperpal.com/homev3), all the features you see on RHS panel are genai features build by yours truly
+
+## 🧩 Who Am I?
+
+Tired of engineers who just turn Jira tickets into code — no questions asked, no context understood?  
+Or those who freeze up when a group of PMs asks, *"So... why did we build this?"*
+
+Well, your search ends here.
+
+I'm an engineer with an MBA — the rare kind who’s scaled businesses (1 → X) in both offline and online worlds, and then made a deliberate pivot to follow my passion: building products (0 → 1) with real impact.
+
+My business background means I don’t just understand the *what* — I get the *why*. I speak product just as fluently as I speak code.  
+I connect strategy to systems and translate business requirements into clean, scalable, maintainable features — no hand-holding required.
+
+In short: I know how to talk to humans *and* computers.
+
 
 
 ---
