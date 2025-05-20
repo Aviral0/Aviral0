@@ -10,13 +10,28 @@ I build features for [paperpal.com](https://paperpal.com/homev3), all the featur
 
 ## 🧑‍💻 Areas of Interest
 
-- Build clean, scalable, efficient APIs 
-- code reviewsand sprint planning (priortise what creates the most impact, sometimes of all things, it is refactoring the codebase)
-- keeping test cases upto date (how else will you know, you are good to go for prod?)
-- build LLM based features (I build a wrapper for cactus which is used to call LLMs, nobodu can just use the API key and start calling LLMs, you call us, I know a guy who knows a guy kind of deal)
-- optimising APIs
-- System design and architecture (design diagrams give the most clarity, don't lie !)
-- Cloud technologies 
+
+- ⚙️ **Building clean, scalable, efficient APIs**  
+  If your codebase gives a migraine to the next developer, you have not done a fair job. 
+
+- 🔍 **Code reviews & sprint planning**  
+  My MBA degree has taught me find tasks that delivers the maximum impact - sometimes of all things, refactoring the bloated codebase delivers the max impacc
+
+- ✅ **Keeping test cases up to date**  
+  Tests aren't optional — they're the confidence check before shipping to production.
+
+- 🧠 **Building LLM-based features**  
+  Cactus uses a wrapper built by me, to safely manage and route LLM calls — no direct API key exposure. You want to call an LLM? You call us. We "know a guy who knows a guy."
+
+- 🚀 **Optimizing APIs**  
+  Latency improvement is every developers hell, but it is probably the most staifying work you can do, asyncio for the win
+
+- 🧱 **System design & architecture**  
+  I believe in designing systems with clear structure — and yes, design diagrams don’t lie. They reveal what’s missing before it's too late.
+
+- ☁️ **Cloud technologies**  
+  Comfortable working with AWS and container-based deployments. Infrastructure as code (IaC) is second nature with Terraform.
+
 
 ---
 
