@@ -86,5 +86,5 @@ In short: I know how to talk to humans *and* computers.
 Feel free to reach out for collaboration, technical discussion, or just to connect professionally.
 
 - 📧 Email: jainaviral25@gmail.com
-- 📍 Location: Noida, Delhi NCR, India    
+- 📍 Location: Noida, Delhi NCR, India 🇮🇳  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aviral-jain-6190b9133/)
